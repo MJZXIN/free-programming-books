@@ -584,7 +584,6 @@
 
 ### Markdown
 
-* [Markdown 简明教程](http://www.jianshu.com/p/7bd23251da0a)
 * [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
 
 
